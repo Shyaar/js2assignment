@@ -1,0 +1,13 @@
+WHILE LOOP:
+1. Printing Numbers from 1 to 10 using While Loop in JavaScript
+2. Summing the First N Natural Numbers with JavaScript While Loop
+3. Calculating Factorial Using While Loop in JavaScript
+4. Generating Fibonacci Sequence up to N Terms with While Loop
+5. Summing the Digits of a Number with While Loop
+6. Finding the Largest Digit in a Number Using While Loop
+
+FOR LOOP:
+1. Print all even numbers up to and including N. Don't include 0.
+2. Given a number N, calculate the factorial of the number.
+3. Write a program that finds the summation of every number from 1 to N. The number will always be a positive integer greater than 0.
+4. Given an array of names, write a program that prints a thank your message for each of the user. Sample output: "Thank you user for the birthday gift", where "user" is the name(s) from the array
